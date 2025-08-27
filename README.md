@@ -1,5 +1,5 @@
-### Truly Social
-# Making social media truly social again
+# Truly Social
+### Making social media truly social again
 
 - No outside investment
 - No data selling
